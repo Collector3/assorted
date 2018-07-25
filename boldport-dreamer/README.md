@@ -10,9 +10,9 @@ This is a 3d printable press-fit frame for [Boldport's Dreamer PCB art](https://
 
     *Instructions*: Print the frame (`Dreamer-V3 Frame.stl` and either the stand `Dreamer-V3 - Stand.stl` or badge magnet holder `Dreamer-V3 - MagnetMount.stl`.
     
-     Both can be tapped into the hole *gently* with a mallet. For the badge magnet, there is a bit of play in the design, but the magnet should stay put.
+     Both can be tapped into the hole *gently* with a mallet. For the badge magnet, the magnet is slightly loose and can be secured with a bit of double-sided tape.
 
-* Fastener version: V2 and its stand is attached with an M3 (or epoxy/hot glue, artist/assembler's choice). There isn't a badge magnet holder for this version.
+* Fastener version: V2 and its stand is attached with an M3 (or epoxy/hot glue, artist/assembler's choice).
 
     * The frame+stand hole takes an M3 screw (CAD: 2.85mm in diameter, with a depth of 6.5mm--stand included). 
 
@@ -20,4 +20,4 @@ This is a 3d printable press-fit frame for [Boldport's Dreamer PCB art](https://
     slot will be visible that shows how deep the screw is embedded. Don't overtighten/bottom out; an impression of the screw will show on the
     frame's face.
     
-    * For tapping, or printer weirdness, the STEP files are provided. The tap size for an M3 is around 2.50mm.
+For tapping, or printer weirdness, the STEP files are provided. The tap size for an M3 is around 2.50mm.
