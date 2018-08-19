@@ -21,3 +21,5 @@ This is a 3d printable press-fit frame for [Boldport's Dreamer PCB art](https://
     frame's face.
     
 For tapping, or printer weirdness, the STEP files are provided. The tap size for an M3 is around 2.50mm.
+
+![boldport dreamer](boldport-dreamer.png)
