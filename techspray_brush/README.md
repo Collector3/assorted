@@ -1,6 +1,6 @@
 # Techspray Brush
 
-![Techspray with a printed brush cap](techspray_brush/techspray-brush.png)
+![Techspray with a printed brush cap](techspray-brush.png)
 
 This is a cap for the end of a techspray brush available through Mouser. Part number: [577-2033](http://www.mouser.com/access/?pn=577-2033)
 
