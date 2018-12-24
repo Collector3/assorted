@@ -1,5 +1,8 @@
+// Techspray Brush Tail Cap
 // Two cylinders at 45 degree offset angles from center (mirroed)
-// with a block in the middle splitting them down?
+// with a block in the middle splitting them down
+//
+// Paste this into https://openjscad.org/ for viewing / STL export
 
 function main() {
   brush_cap = difference(
