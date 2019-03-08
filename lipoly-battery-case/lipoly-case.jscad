@@ -20,6 +20,13 @@ function main() {
                 battHeight+offset], center: centerSetting}).translate([battLen/2,0,0])))
     );
     
-    var layFlat = batteryBox.getTransformationToFlatLying();
-    return batteryBox.transform(layFlat);
+    // lieFlat() proritizes minimal Z height and is not always optimal for 3D printing 
+    //flattenedBox = batteryBox.transform(batteryBox.getTransformationToFlatLying());
+    //return flattenedBox.rotateY(-90);
+    
+    // Rotate into position for FDM printing, and move the distance from Z origin
+    finalBox = batteryBox.rotateY(-90);
+    deltaZ = finalBox.getBounds()[0].z
+    
+    return finalBox.translate([0, 0, -deltaZ]);
 }
