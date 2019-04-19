@@ -1,6 +1,6 @@
 # K-Drill
 
-![a photo of the k-drill, a printed part to hold a 1/8" drill bit](kdrill.png)
+![a photo of the k-drill, a printed part to hold a 1/8" drill bit](k-drill.png)
 
 This is a visually reconstructed copy of [Prusa Research's P-Drill](https://manual.prusa3d.com/Guide/1.+Y-carriage+drilling/323). The P-Drill was a part of the Prusa i3 MK2 to MK2s upgrade,
 and was used to enlarge the bed mounting plate for the U-bolts. 
